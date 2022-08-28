@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ryan Ruark
 - 👀 I’m interested in migration utilities, decision-making tools, and tools for admins
-- 🌱 I’m currently learning Swift and SwiftUI
 - 📫 Find me on LinkedIn at https://www.linkedin.com/in/rruark/
 
 <!---
